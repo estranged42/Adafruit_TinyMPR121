@@ -5,7 +5,7 @@
 
 MCU                | Tested Works | Doesn't Work | Not Tested  | Notes
 ------------------ | :----------: | :----------: | :---------: | -----
-ATtiny85 @ 8MHz    |             |             |     X       | 
+ATtiny85 @ 8MHz    |      X      |             |             | 
 
 
   * ATtiny85 @ 16MHz : Adafruit Trinket 5V
